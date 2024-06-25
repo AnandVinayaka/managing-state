@@ -1,0 +1,13 @@
+#Groceries{
+    display: flex;
+    justify-content: center;
+    justify-content: center;
+    text-align: center; 
+    background-color: rgb(255, 246, 165);
+}
+
+.info{
+    font-family: Helvetica;
+    font-size: 1.5em;
+    font-weight: bold;
+}
